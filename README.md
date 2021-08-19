@@ -4,7 +4,7 @@
 You have stolen a ciphertext from a secret communication.You discover is encrypted with one of the oldest encryption methods the Caesar Cipher.It is time to Play!
 
 # Operation
-1. Execute the Script : ./caesar_crack [number of shifts (1-25)]
+1. Execute the Script : ./caesar_cracker [number of shifts (1-25)]
 2. Insert the ciphertext
 3. All letters will be converted into LowerCase.
 4. The script will execute [your number] shifts.And print [your number] Results
