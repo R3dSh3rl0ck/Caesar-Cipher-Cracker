@@ -1,7 +1,7 @@
 # Caesar-Cipher-Cracker
 
 # Important!!
-You have stolen a ciphertext from a secret communication.You discover is encrypted with one of the oldest encryption methods the Caesar Cipher.It is time to Play!
+You have stolen a ciphertext from a secret communication.You discovered that is encrypted with one of the oldest encryption methods the Caesar Cipher.It is time to Play!
 
 # Operation
 1. Execute the Script : ./caesar_cracker [number of shifts (1-25)]
